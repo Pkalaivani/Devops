@@ -1,0 +1,6 @@
+Chef components:
+	worstation
+	chef-server
+	node
+	knife
+	
